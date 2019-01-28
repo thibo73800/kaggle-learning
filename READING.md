@@ -7,3 +7,5 @@
 - [Gradient Boosting explained](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 
 - [Suppoer vector machine video](https://www.youtube.com/watch?v=eUfvyUEGMD8)
+
+- [Why are extremely randomized trees more efficient than standard Random Forests?](https://www.reddit.com/r/MachineLearning/comments/29uwi1/why_are_extremely_randomized_trees_more_efficient/)
